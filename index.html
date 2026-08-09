@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Shehryar — Projects</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header class="site-header">
+    <h1>Projects</h1>
+    <p class="tagline">Everything I've built, auto-synced from GitHub.</p>
+  </header>
+
+  <div class="controls">
+    <input type="text" id="search" placeholder="Search projects..." aria-label="Search projects">
+
+    <div class="filter-row">
+      <div id="category-filters" class="chip-group">
+        <button class="chip active" data-category="all">All</button>
+      </div>
+      <select id="sort-select" aria-label="Sort by">
+        <option value="newest">Newest first</option>
+        <option value="oldest">Oldest first</option>
+        <option value="updated">Recently updated</option>
+      </select>
+    </div>
+  </div>
+
+  <main id="grid" class="grid"></main>
+
+  <p id="empty-state" class="empty-state" hidden>
+    No projects match that filter — try clearing the search or picking "All".
+  </p>
+
+  <footer class="site-footer">
+    <p>Auto-updated daily via GitHub Actions · <span id="last-updated"></span></p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
