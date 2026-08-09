@@ -27,8 +27,8 @@ jobs:
 
       - name: Commit if changed
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "Author's-Automated"
+          git config --global user.email "150334794+shehryar-92@users.noreply.github.com"
           git add data.json
           git diff --staged --quiet || git commit -m "chore: update showcase data"
           git push
