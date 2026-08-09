@@ -1,4 +1,248 @@
 {
-  "generated_at": "2026-08-09T00:00:00Z",
-  "projects": []
+  "generated_at": "2026-08-09T07:36:53.200361+00:00",
+  "projects": [
+    {
+      "name": "Daily-Tech-Joke",
+      "description": "",
+      "url": "https://github.com/shehryar-92/Daily-Tech-Joke",
+      "homepage": null,
+      "category": "Python",
+      "created_at": "2026-07-21T11:20:50Z",
+      "pushed_at": "2026-08-08T19:18:07Z"
+    },
+    {
+      "name": "Dropwizard-microservice",
+      "description": "",
+      "url": "https://github.com/shehryar-92/Dropwizard-microservice",
+      "homepage": null,
+      "category": "Java",
+      "created_at": "2026-06-27T10:40:58Z",
+      "pushed_at": "2026-06-27T11:56:44Z"
+    },
+    {
+      "name": "Flightcry-UI",
+      "description": "",
+      "url": "https://github.com/shehryar-92/Flightcry-UI",
+      "homepage": null,
+      "category": "Kotlin",
+      "created_at": "2026-06-28T15:24:28Z",
+      "pushed_at": "2026-07-01T10:32:40Z"
+    },
+    {
+      "name": "git-self-learning",
+      "description": "",
+      "url": "https://github.com/shehryar-92/git-self-learning",
+      "homepage": null,
+      "category": "HTML",
+      "created_at": "2026-07-07T14:32:32Z",
+      "pushed_at": "2026-07-08T16:52:27Z"
+    },
+    {
+      "name": "Gpa-Calculator",
+      "description": "",
+      "url": "https://github.com/shehryar-92/Gpa-Calculator",
+      "homepage": null,
+      "category": "CSS",
+      "created_at": "2025-06-30T12:30:47Z",
+      "pushed_at": "2026-07-03T14:20:15Z"
+    },
+    {
+      "name": "gpa-calculator-java",
+      "description": "",
+      "url": "https://github.com/shehryar-92/gpa-calculator-java",
+      "homepage": null,
+      "category": "Java",
+      "created_at": "2026-07-04T13:37:01Z",
+      "pushed_at": "2026-07-04T18:00:52Z"
+    },
+    {
+      "name": "Image-Resizer",
+      "description": "",
+      "url": "https://github.com/shehryar-92/Image-Resizer",
+      "homepage": "https://shehryar-92.github.io/Image-Resizer/",
+      "category": "JavaScript",
+      "created_at": "2026-07-13T09:13:56Z",
+      "pushed_at": "2026-07-19T15:26:58Z"
+    },
+    {
+      "name": "Image-to-PixelArt",
+      "description": "",
+      "url": "https://github.com/shehryar-92/Image-to-PixelArt",
+      "homepage": null,
+      "category": "JavaScript",
+      "created_at": "2026-08-01T18:12:43Z",
+      "pushed_at": "2026-08-05T12:35:46Z"
+    },
+    {
+      "name": "Morse-Translator",
+      "description": "",
+      "url": "https://github.com/shehryar-92/Morse-Translator",
+      "homepage": null,
+      "category": "CSS",
+      "created_at": "2026-07-26T16:44:06Z",
+      "pushed_at": "2026-07-27T10:43:02Z"
+    },
+    {
+      "name": "Mr.Shehryar-s-portfolio",
+      "description": "",
+      "url": "https://github.com/shehryar-92/Mr.Shehryar-s-portfolio",
+      "homepage": null,
+      "category": "HTML",
+      "created_at": "2024-08-19T12:32:19Z",
+      "pushed_at": "2025-02-01T07:09:12Z"
+    },
+    {
+      "name": "Music-Drum",
+      "description": "",
+      "url": "https://github.com/shehryar-92/Music-Drum",
+      "homepage": null,
+      "category": "JavaScript",
+      "created_at": "2025-06-30T11:55:05Z",
+      "pushed_at": "2025-06-30T11:56:29Z"
+    },
+    {
+      "name": "Notepad-Speech-to-text",
+      "description": "",
+      "url": "https://github.com/shehryar-92/Notepad-Speech-to-text",
+      "homepage": null,
+      "category": "JavaScript",
+      "created_at": "2026-07-21T11:11:39Z",
+      "pushed_at": "2026-07-21T11:14:41Z"
+    },
+    {
+      "name": "Polling-Voting",
+      "description": "",
+      "url": "https://github.com/shehryar-92/Polling-Voting",
+      "homepage": null,
+      "category": "JavaScript",
+      "created_at": "2026-07-28T10:16:50Z",
+      "pushed_at": "2026-07-29T08:08:06Z"
+    },
+    {
+      "name": "Pomodoro-Timer",
+      "description": "",
+      "url": "https://github.com/shehryar-92/Pomodoro-Timer",
+      "homepage": null,
+      "category": "JavaScript",
+      "created_at": "2026-07-25T13:02:27Z",
+      "pushed_at": "2026-07-25T13:08:19Z"
+    },
+    {
+      "name": "Portfolio-hub",
+      "description": "",
+      "url": "https://github.com/shehryar-92/Portfolio-hub",
+      "homepage": null,
+      "category": "Python",
+      "created_at": "2026-08-06T12:20:30Z",
+      "pushed_at": "2026-08-08T09:53:09Z"
+    },
+    {
+      "name": "Practice-2",
+      "description": "",
+      "url": "https://github.com/shehryar-92/Practice-2",
+      "homepage": null,
+      "category": "HTML",
+      "created_at": "2026-07-06T16:36:00Z",
+      "pushed_at": "2026-07-06T16:39:22Z"
+    },
+    {
+      "name": "QR-Generator",
+      "description": "",
+      "url": "https://github.com/shehryar-92/QR-Generator",
+      "homepage": "https://shehryar-92.github.io/QR-Generator/",
+      "category": "CSS",
+      "created_at": "2026-07-02T13:34:27Z",
+      "pushed_at": "2026-07-09T10:36:22Z"
+    },
+    {
+      "name": "skyscanner-task",
+      "description": "",
+      "url": "https://github.com/shehryar-92/skyscanner-task",
+      "homepage": null,
+      "category": "JavaScript",
+      "created_at": "2026-06-26T07:13:36Z",
+      "pushed_at": "2026-06-26T11:18:27Z"
+    },
+    {
+      "name": "snap-cam",
+      "description": "",
+      "url": "https://github.com/shehryar-92/snap-cam",
+      "homepage": null,
+      "category": "JavaScript",
+      "created_at": "2026-07-09T10:21:59Z",
+      "pushed_at": "2026-07-09T10:31:47Z"
+    },
+    {
+      "name": "task-2",
+      "description": "",
+      "url": "https://github.com/shehryar-92/task-2",
+      "homepage": null,
+      "category": "JavaScript",
+      "created_at": "2026-07-14T15:04:18Z",
+      "pushed_at": "2026-07-14T15:07:27Z"
+    },
+    {
+      "name": "task-3",
+      "description": "",
+      "url": "https://github.com/shehryar-92/task-3",
+      "homepage": null,
+      "category": "JavaScript",
+      "created_at": "2026-07-15T14:59:58Z",
+      "pushed_at": "2026-07-24T14:32:01Z"
+    },
+    {
+      "name": "task-5",
+      "description": "",
+      "url": "https://github.com/shehryar-92/task-5",
+      "homepage": null,
+      "category": "JavaScript",
+      "created_at": "2026-07-18T12:04:27Z",
+      "pushed_at": "2026-07-23T09:04:31Z"
+    },
+    {
+      "name": "Tic-Tac-Toe",
+      "description": "",
+      "url": "https://github.com/shehryar-92/Tic-Tac-Toe",
+      "homepage": null,
+      "category": "JavaScript",
+      "created_at": "2026-07-22T15:20:01Z",
+      "pushed_at": "2026-07-22T15:26:04Z"
+    },
+    {
+      "name": "Time-Zone-Converter",
+      "description": "",
+      "url": "https://github.com/shehryar-92/Time-Zone-Converter",
+      "homepage": null,
+      "category": "JavaScript",
+      "created_at": "2026-07-16T16:46:29Z",
+      "pushed_at": "2026-07-18T13:00:44Z"
+    },
+    {
+      "name": "Voice-Recorder",
+      "description": "",
+      "url": "https://github.com/shehryar-92/Voice-Recorder",
+      "homepage": null,
+      "category": "JavaScript",
+      "created_at": "2026-07-10T17:28:23Z",
+      "pushed_at": "2026-07-12T17:15:58Z"
+    },
+    {
+      "name": "work",
+      "description": "",
+      "url": "https://github.com/shehryar-92/work",
+      "homepage": null,
+      "category": "JavaScript",
+      "created_at": "2026-07-30T15:12:52Z",
+      "pushed_at": "2026-08-03T12:24:36Z"
+    },
+    {
+      "name": "work-1",
+      "description": "",
+      "url": "https://github.com/shehryar-92/work-1",
+      "homepage": null,
+      "category": "JavaScript",
+      "created_at": "2026-07-31T12:41:56Z",
+      "pushed_at": "2026-07-31T12:43:58Z"
+    }
+  ]
 }
