@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T06:36:54.880494+00:00",
+  "generated_at": "2026-08-21T06:36:45.582890+00:00",
   "projects": [
     {
       "name": "1strepo-showing-basic-projects",
@@ -17,7 +17,7 @@
       "homepage": null,
       "category": "HTML",
       "created_at": "2026-08-14T16:37:01Z",
-      "pushed_at": "2026-08-20T05:37:46Z"
+      "pushed_at": "2026-08-21T05:39:24Z"
     },
     {
       "name": "Daily-Tech-Joke",
@@ -26,7 +26,7 @@
       "homepage": null,
       "category": "Python",
       "created_at": "2026-07-21T11:20:50Z",
-      "pushed_at": "2026-08-19T16:12:37Z"
+      "pushed_at": "2026-08-20T16:15:23Z"
     },
     {
       "name": "Dropwizard-microservice",
@@ -117,6 +117,15 @@
       "category": "JavaScript",
       "created_at": "2026-07-21T11:11:39Z",
       "pushed_at": "2026-07-21T11:14:41Z"
+    },
+    {
+      "name": "Personla-E-Library",
+      "description": "",
+      "url": "https://github.com/shehryar-92/Personla-E-Library",
+      "homepage": null,
+      "category": "misc",
+      "created_at": "2026-08-20T17:25:57Z",
+      "pushed_at": "2026-08-20T17:28:30Z"
     },
     {
       "name": "Polling-Voting",
