@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T13:28:44.393514+00:00",
+  "generated_at": "2026-11-12T11:11:00.269506+00:00",
   "projects": [
     {
       "name": "1strepo-showing-basic-projects",
@@ -17,7 +17,7 @@
       "homepage": null,
       "category": "HTML",
       "created_at": "2026-08-14T16:37:01Z",
-      "pushed_at": "2026-11-03T12:42:41Z"
+      "pushed_at": "2026-11-11T12:34:53Z"
     },
     {
       "name": "Daily-Motivation-Quote",
@@ -26,7 +26,7 @@
       "homepage": null,
       "category": "Python",
       "created_at": "2026-08-21T17:48:02Z",
-      "pushed_at": "2026-11-03T09:04:32Z"
+      "pushed_at": "2026-11-12T09:22:05Z"
     },
     {
       "name": "Daily-Tech-Joke",
@@ -35,7 +35,7 @@
       "homepage": null,
       "category": "Python",
       "created_at": "2026-07-21T11:20:50Z",
-      "pushed_at": "2026-11-03T10:08:23Z"
+      "pushed_at": "2026-11-12T10:22:19Z"
     },
     {
       "name": "Dropwizard-microservice",
@@ -252,6 +252,15 @@
       "category": "JavaScript",
       "created_at": "2026-07-16T16:46:29Z",
       "pushed_at": "2026-07-18T13:00:44Z"
+    },
+    {
+      "name": "Token-Manager",
+      "description": "",
+      "url": "https://github.com/shehryar-92/Token-Manager",
+      "homepage": null,
+      "category": "Python",
+      "created_at": "2026-11-04T13:04:57Z",
+      "pushed_at": "2026-11-04T13:12:03Z"
     },
     {
       "name": "Voice-Recorder",
